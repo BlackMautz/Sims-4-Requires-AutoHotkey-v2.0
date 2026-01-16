@@ -1,0 +1,15 @@
+# AutoHotkey compiled files
+*.exe
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Folder config
+desktop.ini
+
+# Backup files
+*.bak
+*~
+
+# Logs
+*.log
